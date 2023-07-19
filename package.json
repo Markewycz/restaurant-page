@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Markewycz/restaurant-page#readme",
   "devDependencies": {
+    "css-loader": "^6.8.1",
+    "html-loader": "^4.2.0",
+    "style-loader": "^3.3.3",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
   }
