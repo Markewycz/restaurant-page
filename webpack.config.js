@@ -30,6 +30,34 @@ module.exports = {
         test: /\.(woff|woff2|eot|ttf|otf)$/i,
         type: "asset/resource",
       },
+      {
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        include: /images/,
+        use: [
+          {
+            loader: "file-loader",
+            options: {
+              name: "[name].[ext]",
+              outputPath: "images/",
+              publicPath: "images/",
+            },
+          },
+        ],
+      },
+      {
+        test: /\.(woff(2)?|ttf|otf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+        include: /fonts/,
+        use: [
+          {
+            loader: "file-loader",
+            options: {
+              name: "[name].[ext]",
+              outputPath: "fonts/",
+              publicPath: "fonts/",
+            },
+          },
+        ],
+      },
     ],
   },
   plugins: [

@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Markewycz/restaurant-page#readme",
   "devDependencies": {
     "css-loader": "^6.8.1",
+    "file-loader": "^6.2.0",
     "gh-pages": "^5.0.0",
     "html-loader": "^4.2.0",
     "html-webpack-plugin": "^5.5.3",
