@@ -1,1 +1,1 @@
-export default "fonts/Roboto-Light.ttf";
+export default __webpack_public_path__ + "fonts/Roboto-Light.ttf";
