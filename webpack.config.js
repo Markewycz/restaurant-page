@@ -13,7 +13,7 @@ module.exports = {
   output: {
     filename: "[name][contenthash].js",
     path: path.resolve(__dirname, "dist"),
-    assetModuleFilename: "[name][ext]",
+    assetModuleFilename: "[name][contenthash][ext]",
     clean: true,
   },
   module: {
@@ -25,25 +25,15 @@ module.exports = {
       {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
         type: "asset/resource",
+        generator: {
+          filename: "images/[contenthash][ext]",
+        },
       },
       {
         test: /\.(woff|woff2|eot|ttf|otf)$/i,
         type: "asset/resource",
-      },
-      {
-        test: /\.(png|svg|jpg|jpeg|gif)$/i,
-        loader: "file-loader",
-        options: {
-          name: "[name].[ext]",
-          outputPath: "images/",
-        },
-      },
-      {
-        test: /\.(woff(2)?|ttf|otf|eot)(\?v=\d+\.\d+\.\d+)?$/,
-        loader: "file-loader",
-        options: {
-          name: "[name].[ext]",
-          outputPath: "fonts/",
+        generator: {
+          filename: "fonts/[contenthash][ext]",
         },
       },
     ],

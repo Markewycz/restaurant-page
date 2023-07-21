@@ -210,93 +210,13 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css
 
 /***/ }),
 
-/***/ "./src/assets/img/github.svg":
-/*!***********************************!*\
-  !*** ./src/assets/img/github.svg ***!
-  \***********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"github.svg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/github.svg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/logo-white.svg":
-/*!***************************************!*\
-  !*** ./src/assets/img/logo-white.svg ***!
-  \***************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"logo-white.svg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/logo-white.svg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/banner-footer.jpg":
-/*!******************************************!*\
-  !*** ./src/assets/img/banner-footer.jpg ***!
-  \******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"banner-footer.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/banner-footer.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/banner-min.jpg":
-/*!***************************************!*\
-  !*** ./src/assets/img/banner-min.jpg ***!
-  \***************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"banner-min.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/banner-min.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/food1.jpg":
-/*!**********************************!*\
-  !*** ./src/assets/img/food1.jpg ***!
-  \**********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"food1.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food1.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/food3.jpg":
-/*!**********************************!*\
-  !*** ./src/assets/img/food3.jpg ***!
-  \**********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"food3.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food3.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/food4.jpg":
-/*!**********************************!*\
-  !*** ./src/assets/img/food4.jpg ***!
-  \**********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"food4.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food4.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/header-min.jpg":
-/*!***************************************!*\
-  !*** ./src/assets/img/header-min.jpg ***!
-  \***************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"header-min.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/header-min.jpg?");
-
-/***/ }),
-
 /***/ "./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Bold.ttf":
 /*!************************************************************************!*\
   !*** ./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Bold.ttf ***!
   \************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Bold.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Bold.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/d38785ebb1898db6ec71.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Bold.ttf?");
 
 /***/ }),
 
@@ -306,7 +226,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Bold.ttf\";\n
   \******************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-BoldItalic.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-BoldItalic.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/0654f76a542956706128.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-BoldItalic.ttf?");
 
 /***/ }),
 
@@ -316,7 +236,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-BoldItalic.tt
   \**************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Italic.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Italic.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/7b07ef82d43a64d1ec3d.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Italic.ttf?");
 
 /***/ }),
 
@@ -326,7 +246,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Italic.ttf\";
   \*************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Light.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Light.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/5a46964bcf8ba603b8c0.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Light.ttf?");
 
 /***/ }),
 
@@ -336,7 +256,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Light.ttf\";\
   \*******************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-LightItalic.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-LightItalic.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/457de2fd20cf06e94e93.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-LightItalic.ttf?");
 
 /***/ }),
 
@@ -346,7 +266,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-LightItalic.t
   \**************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Medium.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Medium.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/7d4ff0d7cf1dd354b94b.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Medium.ttf?");
 
 /***/ }),
 
@@ -356,7 +276,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Medium.ttf\";
   \********************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-MediumItalic.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-MediumItalic.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/9cfefa19b48747b36e42.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-MediumItalic.ttf?");
 
 /***/ }),
 
@@ -366,7 +286,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-MediumItalic.
   \***************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Regular.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Regular.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/4114a151797af532cace.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Regular.ttf?");
 
 /***/ }),
 
@@ -376,7 +296,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-Regular.ttf\"
   \****************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-SemiBold.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-SemiBold.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/48dbf64395a7161a641e.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-SemiBold.ttf?");
 
 /***/ }),
 
@@ -386,7 +306,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-SemiBold.ttf\
   \**********************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"CormorantGaramond-SemiBoldItalic.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-SemiBoldItalic.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/d9cb5d748f7c00c0689b.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-SemiBoldItalic.ttf?");
 
 /***/ }),
 
@@ -396,7 +316,7 @@ eval("module.exports = __webpack_require__.p + \"CormorantGaramond-SemiBoldItali
   \********************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"Italiana-Regular.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Italiana/Italiana-Regular.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/2d0e370dde5190d0d6a0.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Italiana/Italiana-Regular.ttf?");
 
 /***/ }),
 
@@ -406,7 +326,7 @@ eval("module.exports = __webpack_require__.p + \"Italiana-Regular.ttf\";\n\n//# 
   \*************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"Roboto-Bold.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-Bold.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/f80816a5455d171f948d.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-Bold.ttf?");
 
 /***/ }),
 
@@ -416,7 +336,7 @@ eval("module.exports = __webpack_require__.p + \"Roboto-Bold.ttf\";\n\n//# sourc
   \**************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"Roboto-Light.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-Light.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/333da16a3f3cc391d087.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-Light.ttf?");
 
 /***/ }),
 
@@ -426,7 +346,7 @@ eval("module.exports = __webpack_require__.p + \"Roboto-Light.ttf\";\n\n//# sour
   \***************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"Roboto-Medium.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-Medium.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/7c8d04cd831df3033c8a.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-Medium.ttf?");
 
 /***/ }),
 
@@ -436,7 +356,7 @@ eval("module.exports = __webpack_require__.p + \"Roboto-Medium.ttf\";\n\n//# sou
   \*********************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"Roboto-MediumItalic.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-MediumItalic.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/82736aaa11c64709055f.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-MediumItalic.ttf?");
 
 /***/ }),
 
@@ -446,7 +366,7 @@ eval("module.exports = __webpack_require__.p + \"Roboto-MediumItalic.ttf\";\n\n/
   \****************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"Roboto-Regular.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-Regular.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/fc2b5060f7accec5cf74.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/Roboto/Roboto-Regular.ttf?");
 
 /***/ }),
 
@@ -456,7 +376,7 @@ eval("module.exports = __webpack_require__.p + \"Roboto-Regular.ttf\";\n\n//# so
   \*******************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"SpaceMono-Bold.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/SpaceMono/SpaceMono-Bold.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/056ac3ebe5f65cb5c4ac.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/SpaceMono/SpaceMono-Bold.ttf?");
 
 /***/ }),
 
@@ -466,7 +386,7 @@ eval("module.exports = __webpack_require__.p + \"SpaceMono-Bold.ttf\";\n\n//# so
   \*************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"SpaceMono-BoldItalic.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/SpaceMono/SpaceMono-BoldItalic.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/973410642f95c92e505b.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/SpaceMono/SpaceMono-BoldItalic.ttf?");
 
 /***/ }),
 
@@ -476,7 +396,7 @@ eval("module.exports = __webpack_require__.p + \"SpaceMono-BoldItalic.ttf\";\n\n
   \*********************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"SpaceMono-Italic.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/SpaceMono/SpaceMono-Italic.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/0daff04789950b311b31.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/SpaceMono/SpaceMono-Italic.ttf?");
 
 /***/ }),
 
@@ -486,7 +406,87 @@ eval("module.exports = __webpack_require__.p + \"SpaceMono-Italic.ttf\";\n\n//# 
   \**********************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"SpaceMono-Regular.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/SpaceMono/SpaceMono-Regular.ttf?");
+eval("module.exports = __webpack_require__.p + \"fonts/8a2aa304d0bd5e41d186.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/SpaceMono/SpaceMono-Regular.ttf?");
+
+/***/ }),
+
+/***/ "./src/assets/img/banner-footer.jpg":
+/*!******************************************!*\
+  !*** ./src/assets/img/banner-footer.jpg ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"images/2308a366f5e68df7a762.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/banner-footer.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/banner-min.jpg":
+/*!***************************************!*\
+  !*** ./src/assets/img/banner-min.jpg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"images/536c106dbee91ed06edf.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/banner-min.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/food1.jpg":
+/*!**********************************!*\
+  !*** ./src/assets/img/food1.jpg ***!
+  \**********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"images/39167ae8c4d0acf1f7c1.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food1.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/food3.jpg":
+/*!**********************************!*\
+  !*** ./src/assets/img/food3.jpg ***!
+  \**********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"images/70ac5383e62bbef57b7c.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food3.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/food4.jpg":
+/*!**********************************!*\
+  !*** ./src/assets/img/food4.jpg ***!
+  \**********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"images/acc3f59a36245d838777.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food4.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/github.svg":
+/*!***********************************!*\
+  !*** ./src/assets/img/github.svg ***!
+  \***********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"images/678001e7b52306104fc3.svg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/github.svg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/header-min.jpg":
+/*!***************************************!*\
+  !*** ./src/assets/img/header-min.jpg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"images/6016f28504bd878b36fe.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/header-min.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/logo-white.svg":
+/*!***************************************!*\
+  !*** ./src/assets/img/logo-white.svg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"images/7eb8f3600fd4a5f8d8ee.svg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/logo-white.svg?");
 
 /***/ })
 
