@@ -12,8 +12,7 @@ body {
   color: black;
 }
 
-header,
-footer {
+header {
   color: white;
 }
 
@@ -72,6 +71,10 @@ label {
   padding: 5px 15px;
 }
 
+.content {
+  /* height: 100vh; */
+}
+
 /* HEADER */
 .header {
   display: grid;
@@ -81,7 +84,7 @@ label {
 
   height: 100vh;
   background: linear-gradient(rgba(74, 59, 62, 0.801), rgba(74, 59, 62, 0.808)),
-    url(/src/assets/img/header.jpg) no-repeat top center;
+    url(/src/assets/img/header-min.jpg) no-repeat top center;
   background-size: cover;
 }
 
@@ -109,12 +112,12 @@ label {
 }
 
 .header-logo {
-  height: 200px;
-  width: 600px;
-  background: url(/src/assets/img/logo-white.svg) no-repeat;
-  background-size: contain;
-
-  align-self: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  width: 700px;
 }
 
 .restaurant-status {
@@ -136,6 +139,15 @@ label {
   gap: 60px;
 }
 
+.nav-btn {
+  color: white;
+  letter-spacing: 0;
+}
+
+.active {
+  color: black;
+  background-color: white;
+}
 /* MAIN */
 
 .main {
@@ -219,37 +231,63 @@ label {
 
 /* BANNER-BREAK */
 
-.banner-break {
-  grid-area: "banner";
+.opening-tab {
+  height: 100vh;
 
-  width: 100%;
-  height: 600px;
-  background: linear-gradient(rgba(74, 59, 62, 0.801), rgba(74, 59, 62, 0.808)),
-    url(/src/assets/img/banner.jpg) no-repeat center bottom/cover;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr auto;
 }
 
-.banner-logo {
-  height: 200px;
-  width: 600px;
-  background: url(/src/assets/img/logo-white.svg) no-repeat;
-  background-size: contain;
+.banner-break {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.banner-break::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(74, 59, 62, 0.801), rgba(74, 59, 62, 0.808));
+}
+
+.banner {
+  width: 100%;
+  object-fit: cover;
+}
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /* TEXT/IMG SECTION */
 
-.about-us {
-  grid-area: "about";
+.about-us,
+.menu,
+.reservation {
+  height: 100vh;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr auto;
+}
+
+.about-container {
   display: flex;
 }
 
 .text-square,
 .img-square {
   width: 50%;
-  height: 600px;
 }
 
 .text-square {
@@ -271,14 +309,11 @@ label {
 }
 
 .about-us .img-square {
-  background: url(/src/assets/img/food1.jpg) center -200px / cover;
+  background: url(/src/assets/img/food1.jpg) center / cover;
 }
 
 /* MENU */
-
-.menu {
-  grid-area: "menu";
-
+.menu-container {
   display: flex;
 }
 
@@ -304,8 +339,7 @@ label {
 
 /* RESERVATION */
 
-.reservation {
-  grid-area: "book";
+.reservation-container {
   display: flex;
 }
 
@@ -342,10 +376,12 @@ label {
 /* FOOTER */
 
 .footer {
-  grid-area: "footer";
-  padding: 30px;
-  padding-bottom: 10px;
-  background-color: rgb(74, 59, 62);
+  background-color: white;
+
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr auto;
 }
 
 .footer h4 {
@@ -370,7 +406,7 @@ label {
 }
 
 .footer-informations {
-  gap: 20px;
+  gap: 30px;
 }
 .address,
 .contacts {
@@ -383,7 +419,7 @@ label {
 
 .footer-opening-hours {
   display: flex;
-  gap: 15px;
+  gap: 30px;
 }
 
 .footer-days p {
@@ -399,17 +435,13 @@ label {
 }
 
 .footer input {
-  border: 1px solid white;
+  border: 1px solid black;
   background-color: white;
   width: 70%;
 }
-.footer .button {
-  border: 1px solid white;
-  color: white;
-}
 
 .contact-us {
-  gap: 20px;
+  gap: 30px;
 }
 textarea {
   padding: 10px;
@@ -418,6 +450,7 @@ textarea {
 
 .author {
   margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
   font-size: 14px;
   display: flex;
