@@ -210,6 +210,86 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css
 
 /***/ }),
 
+/***/ "./src/assets/img/github.svg":
+/*!***********************************!*\
+  !*** ./src/assets/img/github.svg ***!
+  \***********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"github.svg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/github.svg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/logo-white.svg":
+/*!***************************************!*\
+  !*** ./src/assets/img/logo-white.svg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"logo-white.svg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/logo-white.svg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/banner-footer.jpg":
+/*!******************************************!*\
+  !*** ./src/assets/img/banner-footer.jpg ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"banner-footer.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/banner-footer.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/banner-min.jpg":
+/*!***************************************!*\
+  !*** ./src/assets/img/banner-min.jpg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"banner-min.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/banner-min.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/food1.jpg":
+/*!**********************************!*\
+  !*** ./src/assets/img/food1.jpg ***!
+  \**********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"food1.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food1.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/food3.jpg":
+/*!**********************************!*\
+  !*** ./src/assets/img/food3.jpg ***!
+  \**********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"food3.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food3.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/food4.jpg":
+/*!**********************************!*\
+  !*** ./src/assets/img/food4.jpg ***!
+  \**********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"food4.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food4.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/header-min.jpg":
+/*!***************************************!*\
+  !*** ./src/assets/img/header-min.jpg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"header-min.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/header-min.jpg?");
+
+/***/ }),
+
 /***/ "./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Bold.ttf":
 /*!************************************************************************!*\
   !*** ./src/assets/fonts/Cormorant-Garamond/CormorantGaramond-Bold.ttf ***!
@@ -407,86 +487,6 @@ eval("module.exports = __webpack_require__.p + \"SpaceMono-Italic.ttf\";\n\n//# 
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"SpaceMono-Regular.ttf\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/fonts/SpaceMono/SpaceMono-Regular.ttf?");
-
-/***/ }),
-
-/***/ "./src/assets/img/banner-footer.jpg":
-/*!******************************************!*\
-  !*** ./src/assets/img/banner-footer.jpg ***!
-  \******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"banner-footer.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/banner-footer.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/banner-min.jpg":
-/*!***************************************!*\
-  !*** ./src/assets/img/banner-min.jpg ***!
-  \***************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"banner-min.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/banner-min.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/food1.jpg":
-/*!**********************************!*\
-  !*** ./src/assets/img/food1.jpg ***!
-  \**********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"food1.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food1.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/food3.jpg":
-/*!**********************************!*\
-  !*** ./src/assets/img/food3.jpg ***!
-  \**********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"food3.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food3.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/food4.jpg":
-/*!**********************************!*\
-  !*** ./src/assets/img/food4.jpg ***!
-  \**********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"food4.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/food4.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/github.svg":
-/*!***********************************!*\
-  !*** ./src/assets/img/github.svg ***!
-  \***********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"github.svg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/github.svg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/header-min.jpg":
-/*!***************************************!*\
-  !*** ./src/assets/img/header-min.jpg ***!
-  \***************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"header-min.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/header-min.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/logo-white.svg":
-/*!***************************************!*\
-  !*** ./src/assets/img/logo-white.svg ***!
-  \***************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"logo-white.svg\";\n\n//# sourceURL=webpack://restaurant-page/./src/assets/img/logo-white.svg?");
 
 /***/ })
 
